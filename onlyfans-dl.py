@@ -1,12 +1,4 @@
 #!/usr/bin/python3
-#
-# OnlyFans Profile Downloader/Archiver
-# KORNHOLIO 2020
-#
-# See README for help/info.
-#
-# This program is Free Software, licensed under the
-# terms of GPLv3. See LICENSE.txt for details.
 
 import re
 import os
@@ -286,11 +278,11 @@ def download_posts(cur_count, posts, is_archived):
 if __name__ == "__main__":
 
     print("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-    print("~ I AM THE GREAT KORNHOLIO ~")
-    print("~  ARE U THREATENING ME??  ~")
+    print("~ I AM THE GREAT kommer ~")
+    print("~  ARE YOU THREATENING ME??  ~")
     print("~                          ~")
     print("~    COOMERS GUNNA COOM    ~")
-    print("~    HACKERS GUNNA HACK    ~")
+    print("~    HECKLER GUNNA HECK    ~")
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
 
     # Gather inputs
