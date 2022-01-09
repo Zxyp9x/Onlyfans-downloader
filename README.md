@@ -17,7 +17,7 @@ Get your user-agent here ipchicken
 Session Cookie
 Login to OnlyFans as normal
 Open the dev console Storage Inspector (SHIFT+F9 on FireFox). or the Application tab of Chrome DevTools
-Click Cookies -> https://onlyfans.com
+Click Cookies -> https://onlyfans.com or find INIT scroll down till you the see the values
 Copy the value of the sess cookie
 x-bc and user-id
 Login to OnlyFans, goto home page
